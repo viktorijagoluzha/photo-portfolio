@@ -1,6 +1,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import { Text, Button } from '../atoms';
+import { Text } from '../atoms';
 import backgroundImage from '../../assets/DSC_0311.JPG';
 import './Hero.css';
 

@@ -1,4 +1,4 @@
-import { Camera, Video, AirVent, Users } from 'lucide-react';
+import { Camera, Video, AirVent } from 'lucide-react';
 
 export const SERVICES = [
   { 
