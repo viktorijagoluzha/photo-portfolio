@@ -1,5 +1,5 @@
 export const mk = {
-  studioName: "Мизуки Вижн",
+  studioName: "Мизуки Медиа",
   brandName: "Мизуки",
   nav: {
     home: "Дома",
@@ -9,7 +9,7 @@ export const mk = {
     contact: "Контакт"
   },
   hero: {
-    title: "Мизуки Вижн",
+    title: "Мизуки Медиа",
     subtitle: "Фаќаме моменти. Раскажуваме приказни. Го гледаме светот одозгора.",
     cta: "Резервирајте Термин"
   },
@@ -64,7 +64,7 @@ export const mk = {
     title: "Контактирајте нѐ",
     description: "Јавете ни се или пишете ни е-пошта за да разговараме за вашиот следен проект.",
     phone: "+389 7X XXX XXX",
-    email: "contact@mizukivision.mk",
+    email: "contact@mizukimedia.mk",
     location: "Скопје, Северна Македонија",
     form: {
       title: "Резервирајте Термин",
@@ -84,6 +84,6 @@ export const mk = {
     }
   },
   footer: {
-    copyright: "© 2025 Мизуки Вижн. Сите права задржани. Изработено во React."
+    copyright: "© 2025 Мизуки Медиа. Сите права задржани. Изработено во React."
   }
 };

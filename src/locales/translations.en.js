@@ -1,5 +1,5 @@
 export const en = {
-  studioName: "Mizuki Vision",
+  studioName: "Mizuki Media",
   brandName: "Mizuki",
   nav: {
     home: "Home",
@@ -9,7 +9,7 @@ export const en = {
     contact: "Contact"
   },
   hero: {
-    title: "Mizuki Vision",
+    title: "Mizuki Media",
     subtitle: "Capturing moments. Telling stories. Seeing the world from above.",
     cta: "Book Appointment"
   },
@@ -64,7 +64,7 @@ export const en = {
     title: "Contact Us",
     description: "Call us or send us an email to discuss your next project.",
     phone: "+389 7X XXX XXX",
-    email: "contact@mizukivision.mk",
+    email: "contact@mizukimedia.mk",
     location: "Skopje, North Macedonia",
     form: {
       title: "Book Appointment",
@@ -84,6 +84,6 @@ export const en = {
     }
   },
   footer: {
-    copyright: "© 2025 Mizuki Vision. All rights reserved. Built with React."
+    copyright: "© 2025 Mizuki Media. All rights reserved. Built with React."
   }
 };
