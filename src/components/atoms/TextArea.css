@@ -1,0 +1,20 @@
+.textarea {
+  width: 100%;
+  padding: 0.75rem;
+  border-radius: 0.5rem;
+  background-color: #374151;
+  color: white;
+  border: none;
+  transition: all 0.3s;
+  resize: vertical;
+  font-family: inherit;
+}
+
+.textarea:focus {
+  outline: none;
+  box-shadow: 0 0 0 2px #a855f7;
+}
+
+.textarea::placeholder {
+  color: #9ca3af;
+}

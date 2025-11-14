@@ -1,0 +1,32 @@
+.language-switcher {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  background: none;
+  border: 1px solid #6b21a8;
+  border-radius: 0.5rem;
+  padding: 0.5rem 1rem;
+  color: #d1d5db;
+  font-size: 0.875rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s;
+}
+
+.language-switcher:hover {
+  background-color: rgba(147, 51, 234, 0.1);
+  border-color: #a855f7;
+}
+
+.language-switcher span {
+  transition: color 0.3s;
+}
+
+.language-switcher span.active {
+  color: #a855f7;
+}
+
+.language-switcher .separator {
+  color: #6b21a8;
+  opacity: 0.5;
+}

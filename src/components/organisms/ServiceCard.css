@@ -1,0 +1,26 @@
+.service-card {
+  background-color: #1f2937;
+  padding: 1.5rem;
+  border-radius: 0.75rem;
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
+  border-left: 4px solid #9333ea;
+}
+
+.service-icon {
+  width: 2rem;
+  height: 2rem;
+  color: #a855f7;
+  margin-bottom: 0.75rem;
+}
+
+.service-title {
+  font-size: 1.25rem;
+  font-weight: 600;
+  color: white;
+  margin-bottom: 0.5rem;
+}
+
+.service-description {
+  color: #9ca3af;
+  font-size: 0.875rem;
+}

@@ -1,0 +1,16 @@
+.social-icon {
+  color: #9ca3af;
+  transition: color 0.3s;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.social-icon:hover {
+  color: #a855f7;
+}
+
+.social-icon-svg {
+  width: 2rem;
+  height: 2rem;
+}

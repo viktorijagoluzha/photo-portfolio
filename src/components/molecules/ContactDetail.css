@@ -1,0 +1,13 @@
+.contact-detail {
+  display: flex;
+  align-items: center;
+  font-size: 1.125rem;
+}
+
+.contact-detail-icon {
+  width: 1.5rem;
+  height: 1.5rem;
+  color: #a855f7;
+  margin-right: 0.75rem;
+  flex-shrink: 0;
+}

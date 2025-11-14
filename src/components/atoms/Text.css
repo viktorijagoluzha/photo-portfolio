@@ -1,0 +1,62 @@
+.text {
+  margin: 0;
+}
+
+.text-hero-title {
+  font-size: 3rem;
+  font-weight: 800;
+  color: white;
+  margin-bottom: 1rem;
+  line-height: 1.2;
+}
+
+@media (min-width: 768px) {
+  .text-hero-title {
+    font-size: 4.5rem;
+  }
+}
+
+.text-hero-subtitle {
+  font-size: 1.125rem;
+  color: #d8b4fe;
+  font-weight: 300;
+  margin-bottom: 2rem;
+  max-width: 36rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+@media (min-width: 768px) {
+  .text-hero-subtitle {
+    font-size: 1.5rem;
+  }
+}
+
+.text-section-title {
+  font-size: 2.25rem;
+  font-weight: 800;
+  color: white;
+  text-align: center;
+}
+
+.text-card-title {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: white;
+}
+
+.text-card-subtitle {
+  font-size: 0.875rem;
+  color: #c084fc;
+  font-weight: 500;
+}
+
+.text-body {
+  font-size: 1rem;
+  color: #9ca3af;
+}
+
+.text-small {
+  font-size: 0.875rem;
+  color: #6b7280;
+}
