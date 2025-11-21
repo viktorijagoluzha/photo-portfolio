@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import { Header, Footer } from '../organisms';
 import { useLanguage } from '../../contexts/LanguageContext';
 import './MainLayout.css';
@@ -7,11 +8,12 @@ const MainLayout = ({ children }) => {
   const { language, toggleLanguage, t } = useLanguage();
 
   const navItems = [
-    { href: '#home', label: t.nav.home },
-    { href: '#team', label: t.nav.team },
-    { href: '#services', label: t.nav.services },
-    { href: '#portfolio', label: t.nav.portfolio },
-    { href: '#booking', label: t.nav.contact },
+    { href: '/#home', label: t.nav.home },
+    { href: '/#team', label: t.nav.team },
+    { href: '/#services', label: t.nav.services },
+    { href: '/#portfolio', label: t.nav.portfolio },
+    { href: '/#booking', label: t.nav.contact },
+    { href: '/join-us', label: t.nav.joinUs },
   ];
 
   return (

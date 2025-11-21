@@ -6,7 +6,8 @@ export const en = {
     team: "Team",
     services: "Services",
     portfolio: "Portfolio",
-    contact: "Contact"
+    contact: "Contact",
+    joinUs: "Join Us"
   },
   hero: {
     title: "Mizuki Media",
@@ -85,5 +86,34 @@ export const en = {
   },
   footer: {
     copyright: "© 2025 Mizuki Media. All rights reserved. Built with React."
+  },
+  photographerRegistration: {
+    title: "Join Our Team",
+    description: "Are you a talented photographer or videographer? We're always looking for creative professionals to collaborate with on exciting projects.",
+    formTitle: "Apply as Photographer",
+    formDescription: "Fill out the form below and we'll get back to you soon",
+    fullNamePlaceholder: "Full Name",
+    emailPlaceholder: "Email Address",
+    phonePlaceholder: "Phone Number",
+    specializationLabel: "Specialization:",
+    specializationOptions: [
+      "Photography",
+      "Videography",
+      "Drone Operation",
+      "Photo & Video",
+      "All of the above"
+    ],
+    experienceLabel: "Experience Level:",
+    experienceOptions: [
+      "Beginner (0-1 years)",
+      "Intermediate (1-3 years)",
+      "Professional (3-5 years)",
+      "Expert (5+ years)"
+    ],
+    portfolioPlaceholder: "Portfolio URL (Instagram, website, etc.)",
+    availabilityPlaceholder: "Tell us about your availability, equipment you own, and why you want to join our team...",
+    submitButton: "Submit Application",
+    successMessage: "Application sent successfully! We'll contact you soon.",
+    errorMessage: "Please fill in all required fields."
   }
 };
