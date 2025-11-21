@@ -1,6 +1,6 @@
 export const mk = {
-  studioName: "Мизуки Медиа",
-  brandName: "Мизуки",
+  studioName: "Lumio",
+  brandName: "Lumio",
   nav: {
     home: "Дома",
     team: "Тим",
@@ -10,7 +10,7 @@ export const mk = {
     joinUs: "Придружи Ни Се"
   },
   hero: {
-    title: "Мизуки Медиа",
+    title: "Lumio",
     subtitle: "Фаќаме моменти. Раскажуваме приказни. Го гледаме светот одозгора.",
     cta: "Резервирајте Термин"
   },
@@ -65,7 +65,7 @@ export const mk = {
     title: "Контактирајте нѐ",
     description: "Јавете ни се или пишете ни е-пошта за да разговараме за вашиот следен проект.",
     phone: "+389 7X XXX XXX",
-    email: "contact@mizukimedia.mk",
+    email: "contact@lumio.mk",
     location: "Скопје, Северна Македонија",
     form: {
       title: "Резервирајте Термин",
@@ -85,7 +85,7 @@ export const mk = {
     }
   },
   footer: {
-    copyright: "© 2025 Мизуки Медиа. Сите права задржани. Изработено во React."
+    copyright: "© 2025 Lumio. Сите права задржани. Изработено во React."
   },
   photographerRegistration: {
     title: "Придружи Се На Нашиот Тим",

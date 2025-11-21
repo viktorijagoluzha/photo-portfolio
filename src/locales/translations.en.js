@@ -1,6 +1,6 @@
 export const en = {
-  studioName: "Mizuki Media",
-  brandName: "Mizuki",
+  studioName: "Lumio",
+  brandName: "Lumio",
   nav: {
     home: "Home",
     team: "Team",
@@ -10,7 +10,7 @@ export const en = {
     joinUs: "Join Us"
   },
   hero: {
-    title: "Mizuki Media",
+    title: "Lumio",
     subtitle: "Capturing moments. Telling stories. Seeing the world from above.",
     cta: "Book Appointment"
   },
@@ -65,7 +65,7 @@ export const en = {
     title: "Contact Us",
     description: "Call us or send us an email to discuss your next project.",
     phone: "+389 7X XXX XXX",
-    email: "contact@mizukimedia.mk",
+    email: "contact@lumio.mk",
     location: "Skopje, North Macedonia",
     form: {
       title: "Book Appointment",
@@ -85,7 +85,7 @@ export const en = {
     }
   },
   footer: {
-    copyright: "© 2025 Mizuki Media. All rights reserved. Built with React."
+    copyright: "© 2025 Lumio. All rights reserved. Built with React."
   },
   photographerRegistration: {
     title: "Join Our Team",
